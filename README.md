@@ -37,7 +37,8 @@ Optional keyword arguments:
      
 
 ## Example
-
+    import tkinter as tk
+    
     from entry import Entry
     
     
