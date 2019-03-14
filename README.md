@@ -43,23 +43,23 @@ Optional keyword arguments:
 from entry import Entry
 
 
-class Main(tk.Tk):
-    def __init__(self):
-        tk.Tk.__init__(self)
-        self.entry = Entry(window=self,
-                             inactive_foreground="grey",
-                             active_foreground="black",
-                             font=("Arial", 20),
-                             text="Display message",
-                             predictive_list = [
-                                                "Michael Jackson",
-                                                "George Michael",
-                                                "Tom Cruise",
-                             ]
+     class Main(tk.Tk):
+         def __init__(self):
+             tk.Tk.__init__(self)
+             self.entry = Entry(window=self,
+                                  inactive_foreground="grey",
+                                  active_foreground="black",
+                                  font=("Arial", 20),
+                                  text="Display message",
+                                  predictive_list = [
+                                                     "Michael Jackson",
+                                                     "George Michael",
+                                                     "Tom Cruise",
+                                  ]
 
-        )
-        self.entry.pack(fill=None, expand=False)
+             )
+             self.entry.pack(fill=None, expand=False)
 
-if __name__ == '__main__':
-    main = Main()
-    main.mainloop()
+     if __name__ == '__main__':
+         main = Main()
+         main.mainloop()
