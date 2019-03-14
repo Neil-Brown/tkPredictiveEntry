@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Neil-Brown/tkPredictiveEntry.svg?branch=master)](https://travis-ci.org/Neil-Brown/tkPredictiveEntry)
+[![Build Status](https://travis-ci.org/Neil-Brown/tkPredictiveEntry.svg?branch=master)](https://travis-ci.org/Neil-Brown/tkPredictiveEntry)[![Coverage Status](https://coveralls.io/repos/github/Neil-Brown/tkPredictiveEntry/badge.svg?branch=master)](https://coveralls.io/github/Neil-Brown/tkPredictiveEntry?branch=master)
 # tkPredictiveEntry
 A tkinter Entry widget that provides predictive text assistance.
 
