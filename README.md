@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Neil-Brown/tkPredictiveEntry.svg?branch=master)](https://travis-ci.org/Neil-Brown/tkPredictiveEntry)
 # tkPredictiveEntry
 A tkinter Entry widget that provides predictive text assistance.
 
