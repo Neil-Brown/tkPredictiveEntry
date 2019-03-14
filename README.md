@@ -38,6 +38,9 @@ Optional keyword arguments:
 
 ## Example
 
+    from entry import Entry
+    
+    
     class Main(tk.Tk):
         def __init__(self):
             tk.Tk.__init__(self)
