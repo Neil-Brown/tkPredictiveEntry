@@ -38,9 +38,9 @@ Optional keyword arguments:
      
 
 ## Example
-   import tkinter as tk
+     import tkinter as tk
 
-from entry import Entry
+     from entry import Entry
 
 
      class Main(tk.Tk):
