@@ -21,7 +21,7 @@ Optional keyword arguments:
 -   font
     -   Takes a tuple of family name and font size
     -   Defaults to ("Arial", 12)
--   text = 
+-   text
      -  The text to display when the entry is empty and has no focus
      -  Defaults to "Search"
 -   inactive_foreground =
