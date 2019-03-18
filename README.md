@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Neil-Brown/tkPredictiveEntry.svg?branch=master)](https://travis-ci.org/Neil-Brown/tkPredictiveEntry)[![Coverage Status](https://coveralls.io/repos/github/Neil-Brown/tkPredictiveEntry/badge.svg?branch=master)](https://coveralls.io/github/Neil-Brown/tkPredictiveEntry?branch=master)[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Build Status](https://travis-ci.org/Neil-Brown/tkPredictiveEntry.svg?branch=master)](https://travis-ci.org/Neil-Brown/tkPredictiveEntry)[![Coverage Status](https://coveralls.io/repos/github/Neil-Brown/tkPredictiveEntry/badge.svg?branch=master)](https://coveralls.io/github/Neil-Brown/tkPredictiveEntry?branch=master)[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6b0e8ff8815b415ca4d78034d69c2f79)](https://www.codacy.com/app/neilbrownemail/tkPredictiveEntry?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Neil-Brown/tkPredictiveEntry&amp;utm_campaign=Badge_Grade)
 # tkPredictiveEntry
 A tkinter Entry widget that provides predictive text assistance.
 
@@ -26,7 +26,7 @@ Optional keyword arguments:
     -  The text to display when the entry is empty and has no focus
     -  Defaults to "Search"
     
--   inactive_foreground =
+-   inactive_foreground
     -  The font color to use for predictive text
     -  Defaults to grey
     
