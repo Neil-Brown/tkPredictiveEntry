@@ -22,8 +22,8 @@ Optional keyword arguments:
     -   Takes a tuple of family name and font size
     -   Defaults to ("Arial", 12)
 -   text
-     -  The text to display when the entry is empty and has no focus
-     -  Defaults to "Search"
+    -  The text to display when the entry is empty and has no focus
+    -  Defaults to "Search"
 -   inactive_foreground =
      -  The font color to use for predictive text
      -  Defaults to grey
