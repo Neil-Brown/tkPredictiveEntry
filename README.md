@@ -25,8 +25,8 @@ Optional keyword arguments:
     -  The text to display when the entry is empty and has no focus
     -  Defaults to "Search"
 -   inactive_foreground =
-     -  The font color to use for predictive text
-     -  Defaults to grey
+    -  The font color to use for predictive text
+    -  Defaults to grey
 -    active_foreground = 
      -  Font color for user input
      -  Defaults to "back"
