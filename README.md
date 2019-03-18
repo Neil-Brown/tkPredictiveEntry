@@ -20,7 +20,6 @@ Any of the three geometry managers: "pack", "grid", or "place" can be used.
 Optional keyword arguments:
 -   font
     -   Takes a tuple of family name and font size
-    
     -   Defaults to ("Arial", 12)
     
 -   text
