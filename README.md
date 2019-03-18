@@ -1,4 +1,4 @@
-(https://travis-ci.org/Neil-Brown/tkPredictiveEntry)[![Coverage Status](https://coveralls.io/repos/github/Neil-Brown/tkPredictiveEntry/badge.svg?branch=master)](https://coveralls.io/github/Neil-Brown/tkPredictiveEntry?branch=master)[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)[![Codacy Badge]
+[![Build Status](https://travis-ci.org/Neil-Brown/tkGradientButton.svg?branch=master)](https://travis-ci.org/Neil-Brown/tkGradientButton)
 # tkPredictiveEntry
 A tkinter Entry widget that provides predictive text assistance.
 
