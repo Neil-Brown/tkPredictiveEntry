@@ -3,8 +3,8 @@
 A tkinter Entry widget that provides predictive text assistance.
 
 ## Requirements
-*   Windows, Mac or Linux
-*   Python 2.7 or 3.x with tkinter
+-   Windows, Mac or Linux
+-   Python 2.7 or 3.x with tkinter
 
 ## Installation
 Place entry.py into your project directory:
