@@ -37,6 +37,7 @@ Optional keyword arguments:
 -   width = 
     -   The width of the Entry widget
     -   Defaults to 15
+    
 -   predictive_list = 
     -   A list string terms from which the predictive text is to be supplied
      
