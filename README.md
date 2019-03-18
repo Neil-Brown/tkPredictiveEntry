@@ -30,14 +30,14 @@ Optional keyword arguments:
     -   The font color to use for predictive text
     -   Defaults to grey
     
--    active_foreground = 
+-   active_foreground = 
     -   Font color for user input
     -   Defaults to "back"
     
--    width = 
+-   width = 
     -   The width of the Entry widget
     -   Defaults to 15
--    predictive_list = 
+-   predictive_list = 
     -   A list string terms from which the predictive text is to be supplied
      
 
