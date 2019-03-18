@@ -18,8 +18,8 @@ Places the Entry into the parent provided.
 Any of the three geometry managers: "pack", "grid", or "place" can be used.
 
 Optional keyword arguments:
-*  font = 
-    *  Takes a tuple of family name and font size
+*    font = 
+     *    Takes a tuple of family name and font size
   *   Defaults to ("Arial", 12)
 *   text = 
    *   The text to display when the entry is empty and has no focus
